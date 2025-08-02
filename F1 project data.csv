@@ -1,0 +1,33 @@
+Season,Round,Circuit,Driver,Constructor,Laps,Final Position,TotalPitStops,AvgPitStopTime,PitStops,Starting position
+2010,10,Silverstone Circuit,Lewis Hamilton,McLaren,52,2,0,,[],4
+2010,10,Silverstone Circuit,Jenson Button,McLaren,52,4,0,,[],14
+2011,9,Silverstone Circuit,Lewis Hamilton,McLaren,52,4,3,24.16833333,"[{'Lap': 12, 'StopTime': 25.1}, {'Lap': 24, 'StopTime': 24.065}, {'Lap': 37, 'StopTime': 23.34}]",10
+2011,9,Silverstone Circuit,Jenson Button,McLaren,39,20,3,24.21633333,"[{'Lap': 11, 'StopTime': 25.07}, {'Lap': 26, 'StopTime': 24.287}, {'Lap': 39, 'StopTime': 23.292}]",4
+2012,9,Silverstone Circuit,Lewis Hamilton,McLaren,52,8,2,24.7505,"[{'Lap': 21, 'StopTime': 24.498}, {'Lap': 28, 'StopTime': 25.003}]",8
+2012,9,Silverstone Circuit,Jenson Button,McLaren,52,10,2,24.95,"[{'Lap': 16, 'StopTime': 25.138}, {'Lap': 31, 'StopTime': 24.762}]",16
+2013,8,Silverstone Circuit,Jenson Button,McLaren,52,13,2,24.551,"[{'Lap': 11, 'StopTime': 24.745}, {'Lap': 32, 'StopTime': 24.357}]",10
+2013,8,Silverstone Circuit,Sergio P̩rez,McLaren,46,20,2,24.812,"[{'Lap': 13, 'StopTime': 24.596}, {'Lap': 33, 'StopTime': 25.028}]",13
+2014,9,Silverstone Circuit,Jenson Button,McLaren,52,4,1,28.645,"[{'Lap': 28, 'StopTime': 28.645}]",3
+2014,9,Silverstone Circuit,Kevin Magnussen,McLaren,52,7,1,28.745,"[{'Lap': 27, 'StopTime': 28.745}]",5
+2015,9,Silverstone Circuit,Fernando Alonso,McLaren,51,10,3,44.158,"[{'Lap': 1, 'StopTime': 71.178}, {'Lap': 17, 'StopTime': 28.703}, {'Lap': 37, 'StopTime': 32.593}]",17
+2015,9,Silverstone Circuit,Jenson Button,McLaren,0,19,0,,[],18
+2016,10,Silverstone Circuit,Jenson Button,McLaren,51,12,2,29.8405,"[{'Lap': 6, 'StopTime': 30.093}, {'Lap': 17, 'StopTime': 29.588}]",17
+2016,10,Silverstone Circuit,Fernando Alonso,McLaren,51,13,3,30.03633333,"[{'Lap': 5, 'StopTime': 32.374}, {'Lap': 17, 'StopTime': 28.799}, {'Lap': 39, 'StopTime': 28.936}]",9
+2017,10,Silverstone Circuit,Stoffel Vandoorne,McLaren,50,11,1,29.337,"[{'Lap': 26, 'StopTime': 29.337}]",8
+2017,10,Silverstone Circuit,Fernando Alonso,McLaren,32,18,1,28.269,"[{'Lap': 20, 'StopTime': 28.269}]",20
+2018,10,Silverstone Circuit,Fernando Alonso,McLaren,52,8,2,28.377,"[{'Lap': 13, 'StopTime': 28.669}, {'Lap': 32, 'StopTime': 28.085}]",13
+2018,10,Silverstone Circuit,Stoffel Vandoorne,McLaren,52,11,2,28.471,"[{'Lap': 21, 'StopTime': 28.284}, {'Lap': 33, 'StopTime': 28.658}]",17
+2019,10,Silverstone Circuit,Carlos Sainz,McLaren,52,6,1,27.98,"[{'Lap': 20, 'StopTime': 27.98}]",13
+2019,10,Silverstone Circuit,Lando Norris,McLaren,52,11,2,28.097,"[{'Lap': 13, 'StopTime': 28.275}, {'Lap': 35, 'StopTime': 27.919}]",8
+2020,4,Silverstone Circuit,Lando Norris,McLaren,52,5,1,30.289,"[{'Lap': 12, 'StopTime': 30.289}]",5
+2020,4,Silverstone Circuit,Carlos Sainz,McLaren,52,13,2,32.3825,"[{'Lap': 13, 'StopTime': 28.487}, {'Lap': 51, 'StopTime': 36.278}]",7
+2020,5,Silverstone Circuit,Lando Norris,McLaren,52,9,2,28.4115,"[{'Lap': 12, 'StopTime': 27.949}, {'Lap': 29, 'StopTime': 28.874}]",5
+2020,5,Silverstone Circuit,Carlos Sainz,McLaren,52,13,2,32.318,"[{'Lap': 22, 'StopTime': 35.864}, {'Lap': 34, 'StopTime': 28.772}]",7
+2021,10,Silverstone Circuit,Lando Norris,McLaren,52,4,2,1041.962,"[{'Lap': 2, 'StopTime': 2052.218}, {'Lap': 21, 'StopTime': 31.706}]",5
+2021,10,Silverstone Circuit,Daniel Ricciardo,McLaren,52,5,2,1040.049,"[{'Lap': 2, 'StopTime': 2051.281}, {'Lap': 20, 'StopTime': 28.817}]",6
+2022,10,Silverstone Circuit,Lando Norris,McLaren,52,6,3,1033.607,"[{'Lap': 1, 'StopTime': 3043.215}, {'Lap': 34, 'StopTime': 28.947}, {'Lap': 40, 'StopTime': 28.659}]",6
+2022,10,Silverstone Circuit,Daniel Ricciardo,McLaren,52,13,4,788.38,"[{'Lap': 1, 'StopTime': 3063.314}, {'Lap': 20, 'StopTime': 30.262}, {'Lap': 32, 'StopTime': 30.599}, {'Lap': 38, 'StopTime': 29.345}]",14
+2023,10,Silverstone Circuit,Lando Norris,McLaren,52,2,1,28.438,"[{'Lap': 33, 'StopTime': 28.438}]",2
+2023,10,Silverstone Circuit,Oscar Piastri,McLaren,52,4,1,28.655,"[{'Lap': 29, 'StopTime': 28.655}]",3
+2024,12,Silverstone Circuit,Lando Norris,McLaren,52,3,2,29.524,"[{'Lap': 27, 'StopTime': 28.661}, {'Lap': 39, 'StopTime': 30.387}]",3
+2024,12,Silverstone Circuit,Oscar Piastri,McLaren,52,4,2,29.3705,"[{'Lap': 28, 'StopTime': 29.541}, {'Lap': 38, 'StopTime': 29.2}]",5
